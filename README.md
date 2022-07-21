@@ -2,9 +2,9 @@
 
 ## Aprendizado Java :hourglass_flowing_sand:
 
-- [ ] 1: Introdução
-- [ ] 2: Configuração do Ambiente
-- [ ] 3: Fundamentos
+- [x] 1: Introdução
+- [x] 2: Configuração do Ambiente
+- [x] 3: Fundamentos
 - [ ] 4: Estruturas de Controle
 - [ ] 5: Classes e Métodos
 - [ ] 6: Arrays e Collections
